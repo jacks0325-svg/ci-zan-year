@@ -1,6 +1,6 @@
 {
-  "name": "today-tibetan-calendar-v4-beta-fixed",
-  "version": "4.0.1-beta",
+  "name": "today-tibetan-calendar-v4-beta-layout-fixed",
+  "version": "4.0.2-beta",
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",

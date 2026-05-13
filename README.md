@@ -1,11 +1,15 @@
-# 今日藏曆 v4 Beta Fixed
+# 今日藏曆 v4 Beta Layout Fixed
 
-修正：
-- 下拉選單 option 文字改黑色
-- 詳細資料架構的「傳承版本」區塊改為會隨日期與傳承變動
-- 加入本日事件、本日套用、寺院校正狀態
+排列更新：
+1. 月曆放在今日國曆／今日藏曆下方。
+2. 月亮盈缺動畫移到月曆下方。
+3. 傳承／寺院資料版本移到月亮盈缺下方。
+4. 詳細資料架構接在傳承設定下方。
+5. 月曆顯示設定移到月曆相關流程後段。
 
-Netlify：
+Netlify:
 Build command: npm run build
 Publish directory: dist
-update
+
+GitHub Pages:
+保留 vite.config.js 與 .github/workflows/deploy.yml 即可自動部署。
